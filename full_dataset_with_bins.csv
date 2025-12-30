@@ -1,0 +1,195 @@
+title,brand,category,price,rating,stock,price_bin
+Essence Mascara Lash Princess,Essence,beauty,9.99,2.56,99,1
+Eyeshadow Palette with Mirror,Glamour Beauty,beauty,19.99,2.86,34,1
+Powder Canister,Velvet Touch,beauty,14.99,4.64,89,1
+Red Lipstick,Chic Cosmetics,beauty,12.99,4.36,91,1
+Red Nail Polish,Nail Couture,beauty,8.99,4.32,79,0
+Calvin Klein CK One,Calvin Klein,fragrances,49.99,4.37,29,2
+Chanel Coco Noir Eau De,Chanel,fragrances,129.99,4.26,58,3
+Dior J'adore,Dior,fragrances,89.99,3.8,98,3
+Dolce Shine Eau de,Dolce & Gabbana,fragrances,69.99,3.96,4,3
+Gucci Bloom Eau de,Gucci,fragrances,79.99,2.74,91,3
+Annibale Colombo Bed,Annibale Colombo,furniture,1899.99,4.77,88,4
+Annibale Colombo Sofa,Annibale Colombo,furniture,2499.99,3.92,60,4
+Bedside Table African Cherry,Furniture Co.,furniture,299.99,2.87,64,3
+Knoll Saarinen Executive Conference Chair,Knoll,furniture,499.99,4.88,26,4
+Wooden Bathroom Sink With Mirror,Bath Trends,furniture,799.99,3.59,7,4
+Apple,,groceries,1.99,4.19,8,0
+Beef Steak,,groceries,12.99,4.47,86,1
+Cat Food,,groceries,8.99,3.13,46,0
+Chicken Meat,,groceries,9.99,3.19,97,1
+Cooking Oil,,groceries,4.99,4.8,10,0
+Cucumber,,groceries,1.49,4.07,84,0
+Dog Food,,groceries,10.99,4.55,71,1
+Eggs,,groceries,2.99,2.53,9,0
+Fish Steak,,groceries,14.99,3.78,74,1
+Green Bell Pepper,,groceries,1.29,3.25,33,0
+Green Chili Pepper,,groceries,0.99,3.66,3,0
+Honey Jar,,groceries,6.99,3.97,34,0
+Ice Cream,,groceries,5.49,3.39,27,0
+Juice,,groceries,3.99,3.94,50,0
+Kiwi,,groceries,2.49,4.93,99,0
+Lemon,,groceries,0.79,3.53,31,0
+Milk,,groceries,3.49,2.61,27,0
+Mulberry,,groceries,4.99,4.95,99,0
+Nescafe Coffee,,groceries,7.99,4.82,57,0
+Potatoes,,groceries,2.29,4.81,13,0
+Protein Powder,,groceries,19.99,4.18,80,1
+Red Onions,,groceries,1.99,4.2,82,0
+Rice,,groceries,5.99,3.18,59,0
+Soft Drinks,,groceries,1.99,4.75,53,0
+Strawberry,,groceries,3.99,3.08,46,0
+Tissue Paper Box,,groceries,2.49,2.69,86,0
+Water,,groceries,0.99,4.96,53,0
+Decoration Swing,,home-decoration,59.99,3.16,47,3
+Family Tree Photo Frame,,home-decoration,29.99,4.53,77,2
+House Showpiece Plant,,home-decoration,39.99,4.67,28,2
+Plant Pot,,home-decoration,14.99,3.01,59,1
+Table Lamp,,home-decoration,49.99,3.55,9,2
+Bamboo Spatula,,kitchen-accessories,7.99,3.27,37,0
+Black Aluminium Cup,,kitchen-accessories,5.99,4.46,75,0
+Black Whisk,,kitchen-accessories,9.99,3.9,73,1
+Boxed Blender,,kitchen-accessories,39.99,4.56,9,2
+Carbon Steel Wok,,kitchen-accessories,29.99,4.05,40,2
+Chopping Board,,kitchen-accessories,12.99,3.7,14,1
+Citrus Squeezer Yellow,,kitchen-accessories,8.99,4.63,22,0
+Egg Slicer,,kitchen-accessories,6.99,3.09,40,0
+Electric Stove,,kitchen-accessories,49.99,4.11,21,2
+Fine Mesh Strainer,,kitchen-accessories,9.99,3.04,85,1
+Fork,,kitchen-accessories,3.99,3.11,7,0
+Glass,,kitchen-accessories,4.99,4.02,46,0
+Grater Black,,kitchen-accessories,10.99,3.21,84,1
+Hand Blender,,kitchen-accessories,34.99,3.86,84,2
+Ice Cube Tray,,kitchen-accessories,5.99,4.71,13,0
+Kitchen Sieve,,kitchen-accessories,7.99,3.09,68,0
+Knife,,kitchen-accessories,14.99,3.26,7,1
+Lunch Box,,kitchen-accessories,12.99,4.93,94,1
+Microwave Oven,,kitchen-accessories,89.99,4.82,59,3
+Mug Tree Stand,,kitchen-accessories,15.99,2.64,88,1
+Pan,,kitchen-accessories,24.99,2.79,90,2
+Plate,,kitchen-accessories,3.99,3.65,66,0
+Red Tongs,,kitchen-accessories,6.99,4.42,82,0
+Silver Pot With Glass Cap,,kitchen-accessories,39.99,3.22,40,2
+Slotted Turner,,kitchen-accessories,8.99,3.4,88,0
+Spice Rack,,kitchen-accessories,19.99,4.87,79,1
+Spoon,,kitchen-accessories,4.99,4.03,59,0
+Tray,,kitchen-accessories,16.99,4.62,71,1
+Wooden Rolling Pin,,kitchen-accessories,11.99,2.92,80,1
+Yellow Peeler,,kitchen-accessories,5.99,4.24,35,0
+Apple MacBook Pro 14 Inch Space Grey,Apple,laptops,1999.99,3.65,24,4
+Asus Zenbook Pro Dual Screen Laptop,Asus,laptops,1799.99,3.95,45,4
+Huawei Matebook X Pro,Huawei,laptops,1399.99,4.98,75,4
+Lenovo Yoga 920,Lenovo,laptops,1099.99,2.86,40,4
+New DELL XPS 13 9300 Laptop,Dell,laptops,1499.99,2.67,74,4
+Blue & Black Check Shirt,Fashion Trends,mens-shirts,29.99,3.64,38,2
+Gigabyte Aorus Men Tshirt,Gigabyte,mens-shirts,24.99,3.18,90,2
+Man Plaid Shirt,Classic Wear,mens-shirts,34.99,3.46,82,2
+Man Short Sleeve Shirt,Casual Comfort,mens-shirts,19.99,2.9,2,1
+Men Check Shirt,Urban Chic,mens-shirts,27.99,2.72,95,2
+Nike Air Jordan 1 Red And Black,Nike,mens-shoes,149.99,4.77,7,3
+Nike Baseball Cleats,Nike,mens-shoes,79.99,3.88,12,3
+Puma Future Rider Trainers,Puma,mens-shoes,89.99,4.9,90,3
+Sports Sneakers Off White & Red,Off White,mens-shoes,119.99,4.77,17,3
+Sports Sneakers Off White Red,Off White,mens-shoes,109.99,4.69,62,3
+Brown Leather Belt Watch,Fashion Timepieces,mens-watches,89.99,4.19,32,3
+Longines Master Collection,Longines,mens-watches,1499.99,3.87,100,4
+Rolex Cellini Date Black Dial,Rolex,mens-watches,8999.99,4.97,40,4
+Rolex Cellini Moonphase,Rolex,mens-watches,12999.99,2.58,36,4
+Rolex Datejust,Rolex,mens-watches,10999.99,3.66,86,4
+Rolex Submariner Watch,Rolex,mens-watches,13999.99,2.69,55,4
+Amazon Echo Plus,Amazon,mobile-accessories,99.99,4.99,61,3
+Apple Airpods,Apple,mobile-accessories,129.99,4.15,67,3
+Apple AirPods Max Silver,Apple,mobile-accessories,549.99,3.47,59,4
+Apple Airpower Wireless Charger,Apple,mobile-accessories,79.99,3.68,1,3
+Apple HomePod Mini Cosmic Grey,Apple,mobile-accessories,99.99,4.62,27,3
+Apple iPhone Charger,Apple,mobile-accessories,19.99,4.15,31,1
+Apple MagSafe Battery Pack,Apple,mobile-accessories,99.99,3.62,1,3
+Apple Watch Series 4 Gold,Apple,mobile-accessories,349.99,2.74,33,3
+Beats Flex Wireless Earphones,Beats,mobile-accessories,49.99,4.24,50,2
+iPhone 12 Silicone Case with MagSafe Plum,Apple,mobile-accessories,29.99,3.62,69,2
+Monopod,TechGear,mobile-accessories,19.99,4.43,48,1
+Selfie Lamp with iPhone,GadgetMaster,mobile-accessories,14.99,3.55,58,1
+Selfie Stick Monopod,SnapTech,mobile-accessories,12.99,3.88,11,1
+TV Studio Camera Pedestal,ProVision,mobile-accessories,499.99,2.78,15,4
+Generic Motorcycle,Generic Motors,motorcycle,3999.99,4.91,34,4
+Kawasaki Z800,Kawasaki,motorcycle,8999.99,3.98,52,4
+MotoGP CI.H1,MotoGP,motorcycle,14999.99,2.97,10,4
+Scooter Motorcycle,ScootMaster,motorcycle,2999.99,2.53,84,4
+Sportbike Motorcycle,SpeedMaster,motorcycle,7499.99,3.94,0,4
+Attitude Super Leaves Hand Soap,Attitude,skin-care,8.99,3.19,94,0
+Olay Ultra Moisture Shea Butter Body Wash,Olay,skin-care,12.99,4.51,34,1
+Vaseline Men Body and Face Lotion,Vaseline,skin-care,9.99,3.16,95,1
+iPhone 5s,Apple,smartphones,199.99,2.83,25,3
+iPhone 6,Apple,smartphones,299.99,3.41,60,3
+iPhone 13 Pro,Apple,smartphones,1099.99,4.12,56,4
+iPhone X,Apple,smartphones,899.99,2.51,37,4
+Oppo A57,Oppo,smartphones,249.99,3.94,19,3
+Oppo F19 Pro Plus,Oppo,smartphones,399.99,3.51,78,4
+Oppo K1,Oppo,smartphones,299.99,4.25,55,3
+Realme C35,Realme,smartphones,149.99,4.2,48,3
+Realme X,Realme,smartphones,299.99,3.7,12,3
+Realme XT,Realme,smartphones,349.99,4.58,80,3
+Samsung Galaxy S7,Samsung,smartphones,299.99,3.3,67,3
+Samsung Galaxy S8,Samsung,smartphones,499.99,4.4,0,4
+Samsung Galaxy S10,Samsung,smartphones,699.99,3.06,19,4
+Vivo S1,Vivo,smartphones,249.99,3.5,50,3
+Vivo V9,Vivo,smartphones,299.99,3.6,82,3
+Vivo X21,Vivo,smartphones,499.99,4.26,7,4
+American Football,,sports-accessories,19.99,4.91,53,1
+Baseball Ball,,sports-accessories,8.99,2.57,100,0
+Baseball Glove,,sports-accessories,24.99,3.96,22,2
+Basketball,,sports-accessories,14.99,4.66,75,1
+Basketball Rim,,sports-accessories,39.99,4.6,43,2
+Cricket Ball,,sports-accessories,12.99,3.53,30,1
+Cricket Bat,,sports-accessories,29.99,3.17,98,2
+Cricket Helmet,,sports-accessories,44.99,4.69,10,2
+Cricket Wicket,,sports-accessories,29.99,4.73,25,2
+Feather Shuttlecock,,sports-accessories,5.99,2.85,95,0
+Football,,sports-accessories,17.99,3.28,96,1
+Golf Ball,,sports-accessories,9.99,4.3,84,1
+Iron Golf,,sports-accessories,49.99,4.41,90,2
+Metal Baseball Bat,,sports-accessories,29.99,4.66,16,2
+Tennis Ball,,sports-accessories,6.99,4.06,28,0
+Tennis Racket,,sports-accessories,49.99,4.03,6,2
+Volleyball,,sports-accessories,11.99,3.84,0,1
+Black Sun Glasses,Fashion Shades,sunglasses,29.99,4.41,60,2
+Classic Sun Glasses,Fashion Shades,sunglasses,24.99,3.86,1,2
+Green and Black Glasses,Fashion Shades,sunglasses,34.99,4.55,24,2
+Party Glasses,Fashion Fun,sunglasses,19.99,2.79,86,1
+Sunglasses,Fashion Shades,sunglasses,22.99,3.02,27,1
+iPad Mini 2021 Starlight,Apple,tablets,499.99,3.18,47,4
+Samsung Galaxy Tab S8 Plus Grey,Samsung,tablets,599.99,4.68,62,4
+Samsung Galaxy Tab White,Samsung,tablets,349.99,3.72,92,3
+Blue Frock,,tops,29.99,4.17,52,2
+Girl Summer Dress,,tops,19.99,4.77,43,1
+Gray Dress,,tops,34.99,2.72,55,2
+Short Frock,,tops,24.99,3.23,22,2
+Tartan Dress,,tops,39.99,4.05,73,2
+300 Touring,Chrysler,vehicle,28999.99,4.05,54,4
+Charger SXT RWD,Dodge,vehicle,32999.99,2.58,57,4
+Dodge Hornet GT Plus,Dodge,vehicle,24999.99,2.65,82,4
+Durango SXT RWD,Dodge,vehicle,36999.99,4.07,95,4
+Pacifica Touring,Chrysler,vehicle,31999.99,3.62,53,4
+Blue Women's Handbag,Fashionista,womens-bags,49.99,2.92,76,2
+Heshe Women's Leather Bag,Heshe,womens-bags,129.99,4.92,99,3
+Prada Women Bag,Prada,womens-bags,599.99,2.71,75,4
+White Faux Leather Backpack,Urban Chic,womens-bags,39.99,3.36,39,2
+Women Handbag Black,Elegance Collection,womens-bags,59.99,2.89,11,3
+Black Women's Gown,,womens-dresses,129.99,3.64,25,3
+Corset Leather With Skirt,,womens-dresses,89.99,3.05,30,3
+Corset With Black Skirt,,womens-dresses,79.99,4.52,33,3
+Dress Pea,,womens-dresses,49.99,4.88,6,2
+Marni Red & Black Suit,,womens-dresses,179.99,4.48,62,3
+Green Crystal Earring,,womens-jewellery,29.99,3.96,54,2
+Green Oval Earring,,womens-jewellery,24.99,3.57,73,2
+Tropical Earring,,womens-jewellery,19.99,4.4,1,1
+Black & Brown Slipper,Comfort Trends,womens-shoes,19.99,2.53,3,1
+Calvin Klein Heel Shoes,Calvin Klein,womens-shoes,79.99,4.92,93,3
+Golden Shoes Woman,Fashion Diva,womens-shoes,49.99,3.26,88,2
+Pampi Shoes,Pampi,womens-shoes,29.99,3.05,49,2
+Red Shoes,Fashion Express,womens-shoes,34.99,3.25,7,2
+IWC Ingenieur Automatic Steel,IWC,womens-watches,4999.99,2.93,90,4
+Rolex Cellini Moonphase,Rolex,womens-watches,15999.99,3.83,52,4
+Rolex Datejust Women,Rolex,womens-watches,10999.99,2.86,4,4
+Watch Gold for Women,Fashion Gold,womens-watches,799.99,4.24,0,4
+Women's Wrist Watch,Fashion Co.,womens-watches,129.99,3.52,12,3
